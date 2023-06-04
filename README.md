@@ -10,6 +10,10 @@ The Weather Forecasting Tool is a command-line application that provides the cur
 - Displays the parsed data in a readable format to provide the current weather forecast to the user.
 - Handles errors gracefully, including network errors, invalid city names, and API request failures.
 
+## GitHub Copilot Hackathon 🚀
+This project is developed as part of the GitHub Copilot Hackathon hosted by Microsoft Corporation. The hackathon aims to explore the capabilities of GitHub Copilot, an AI-powered coding assistant developed by OpenAI. By participating in this hackathon, developers have the opportunity to showcase how Copilot can enhance the development process by generating code suggestions and assisting with various tasks.
+
+
 ## GitHub Copilot 🤖
 This project showcases the usage of GitHub Copilot, an AI-powered coding assistant developed by OpenAI. Copilot assists developers by generating code suggestions and completing repetitive tasks. In this project, GitHub Copilot has been utilized in the following ways:
 
