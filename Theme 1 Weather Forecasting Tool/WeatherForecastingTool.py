@@ -5,7 +5,7 @@ import json
 # make a function
 def weather_forecast():
     # define api key
-    api_key = "f530943c607ff3bf9b35d29a2bccd810"
+    api_key = "Enter Your `API_KEY`"
     # define base url
     base_url = "http://api.openweathermap.org/data/2.5/weather?"
     # define city name
